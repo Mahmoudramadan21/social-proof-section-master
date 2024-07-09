@@ -180,7 +180,7 @@ a {
 
 .boxes .box {
     width: 30%;
-    height: 180px;
+    height: fit-content;
     background-color: var(--Very-Dark-Magenta);
     padding: 15px;
     display: flex;
